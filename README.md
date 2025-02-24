@@ -1,0 +1,2 @@
+# aitodolist
+game for fun
